@@ -1,0 +1,331 @@
+[
+    {
+      "id": 1,
+      "brand": "Mahindra",
+      "brandLogo": "/work/clients/mahindra.png",
+      "projects":[
+        {
+            "id":1,
+            "name":"Kar Bachat Yojana",
+            "subtext":"Lorem Ipsum",
+            "banner":"/work/banners/star-plus-ted.jpg",
+            "thum":"/work/banners/thum/star-plus-ted.jpg",
+            "video":"/work/banners/star-plus-ted.jpg",
+            "url":"work/kar-bachat-yojana",
+            "rewards": [
+                {
+                    "id":1,
+                    "title":"ACEF",
+                    "awardImg":"/work/awards/cidca-2018-gold.png"
+                },
+                {
+                    "id":2,
+                    "title":"CIDCA",
+                    "awardImg":"/work/awards/cidca-2018-gold.png"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "name":"Mahindra Mutual Fund",
+            "subtext":"Lorem Ipsum",
+            "banner":"/work/banners/star-plus-ted.jpg",
+            "thum":"/work/banners/thum/star-plus-ted.jpg",
+            "video":"/work/banners/star-plus-ted.jpg",
+            "url":"work/kar-bachat-yojana",
+            "rewards": [
+                {
+                    "id":1,
+                    "title":"ACEF",
+                    "awardImg":"/work/awards/cidca-2018-gold.png"
+                }
+            ]
+            
+        } 
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "Star",
+      "brandLogo": "/work/clients/star.png",
+      "projects":[
+        {
+            "id":1,
+            "name":"Ted",
+            "subtext":"Lorem Ipsum",
+            "banner":"/work/banners/star-plus-ted.jpg",
+            "thum":"/work/banners/thum/star-plus-ted.jpg",
+            "video":"/work/banners/star-plus-ted.jpg",
+            "url":"/work/ted",
+            "rewards": [
+                {
+                    "id":1,
+                    "title":"ACEF",
+                    "awardImg":"/work/awards/cidca-2018-gold.png"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "name":"Nayi Soch",
+            "subtext":"Lorem Ipsum",
+            "banner":"/work/banners/star-plus-ted.jpg",
+            "thum":"/work/banners/thum/star-plus-ted.jpg",
+            "video":"/work/banners/star-plus-ted.jpg",
+            "url":"work/kar-bachat-yojana",
+            "rewards": [
+                
+            ]
+        } 
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "Phillips",
+      "brandLogo": "/work/clients/mahindra.png",
+      "projects":[
+        {
+            "id":1,
+            "name":"Phillips Education",
+            "subtext":"Lorem Ipsum",
+            "banner":"/work/banners/star-plus-ted.jpg",
+            "thum":"/work/banners/thum/star-plus-ted.jpg",
+            "video":"/work/banners/star-plus-ted.jpg",
+            "url":"work/kar-bachat-yojana",
+            "rewards": [
+                
+            ]
+        },
+        {
+            "id":2,
+            "name":"Machinist App",
+            "subtext":"Lorem Ipsum",
+            "banner":"/work/banners/star-plus-ted.jpg",
+            "thum":"/work/banners/thum/star-plus-ted.jpg",
+            "video":"/work/banners/star-plus-ted.jpg",
+            "url":"work/kar-bachat-yojana",
+            "rewards": [
+                
+            ]
+        } 
+      ]
+    },
+    {
+        "id": 4,
+        "brand": "Phillips",
+        "brandLogo": "/work/clients/mahindra.png",
+        "projects":[
+          {
+              "id":1,
+              "name":"Phillips Education",
+              "subtext":"Lorem Ipsum",
+              "banner":"/work/banners/star-plus-ted.jpg",
+              "thum":"/work/banners/thum/star-plus-ted.jpg",
+              "video":"/work/banners/star-plus-ted.jpg",
+              "url":"work/kar-bachat-yojana",
+              "rewards": [
+                  
+              ]
+          },
+          {
+              "id":2,
+              "name":"Machinist App",
+              "subtext":"Lorem Ipsum",
+              "banner":"/work/banners/star-plus-ted.jpg",
+              "thum":"/work/banners/thum/star-plus-ted.jpg",
+              "video":"/work/banners/star-plus-ted.jpg",
+              "url":"work/kar-bachat-yojana",
+              "rewards": [
+                  
+              ]
+          } 
+        ]
+    },
+    {
+        "id": 5,
+        "brand": "Phillips",
+        "brandLogo": "/work/clients/mahindra.png",
+        "projects":[
+          {
+              "id":1,
+              "name":"Phillips Education",
+              "subtext":"Lorem Ipsum",
+              "banner":"/work/banners/star-plus-ted.jpg",
+              "thum":"/work/banners/thum/star-plus-ted.jpg",
+              "video":"/work/banners/star-plus-ted.jpg",
+              "url":"work/kar-bachat-yojana",
+              "rewards": [
+                  
+              ]
+          },
+          {
+              "id":2,
+              "name":"Machinist App",
+              "subtext":"Lorem Ipsum",
+              "banner":"/work/banners/star-plus-ted.jpg",
+              "thum":"/work/banners/thum/star-plus-ted.jpg",
+              "video":"/work/banners/star-plus-ted.jpg",
+              "url":"work/kar-bachat-yojana",
+              "rewards": [
+                  
+              ]
+          } 
+        ]
+    },
+    {
+        "id": 6,
+        "brand": "Phillips",
+        "brandLogo": "/work/clients/mahindra.png",
+        "projects":[
+          {
+              "id":1,
+              "name":"Phillips Education",
+              "subtext":"Lorem Ipsum",
+              "banner":"/work/banners/star-plus-ted.jpg",
+              "thum":"/work/banners/thum/star-plus-ted.jpg",
+              "video":"/work/banners/star-plus-ted.jpg",
+              "url":"work/kar-bachat-yojana",
+              "rewards": [
+                  
+              ]
+          },
+          {
+              "id":2,
+              "name":"Machinist App",
+              "subtext":"Lorem Ipsum",
+              "banner":"/work/banners/star-plus-ted.jpg",
+              "thum":"/work/banners/thum/star-plus-ted.jpg",
+              "video":"/work/banners/star-plus-ted.jpg",
+              "url":"work/kar-bachat-yojana",
+              "rewards": [
+                  
+              ]
+          } 
+        ]
+    },
+    {
+        "id": 7,
+        "brand": "Phillips",
+        "brandLogo": "/work/clients/mahindra.png",
+        "projects":[
+          {
+              "id":1,
+              "name":"Phillips Education",
+              "subtext":"Lorem Ipsum",
+              "banner":"/work/banners/star-plus-ted.jpg",
+              "thum":"/work/banners/thum/star-plus-ted.jpg",
+              "video":"/work/banners/star-plus-ted.jpg",
+              "url":"work/kar-bachat-yojana",
+              "rewards": [
+                  
+              ]
+          },
+          {
+              "id":2,
+              "name":"Machinist App",
+              "subtext":"Lorem Ipsum",
+              "banner":"/work/banners/star-plus-ted.jpg",
+              "thum":"/work/banners/thum/star-plus-ted.jpg",
+              "video":"/work/banners/star-plus-ted.jpg",
+              "url":"work/kar-bachat-yojana",
+              "rewards": [
+                  
+              ]
+          } 
+        ]
+    },
+    {
+        "id": 8,
+        "brand": "Phillips",
+        "brandLogo": "/work/clients/mahindra.png",
+        "projects":[
+          {
+              "id":1,
+              "name":"Phillips Education",
+              "subtext":"Lorem Ipsum",
+              "banner":"/work/banners/star-plus-ted.jpg",
+              "thum":"/work/banners/thum/star-plus-ted.jpg",
+              "video":"/work/banners/star-plus-ted.jpg",
+              "url":"work/kar-bachat-yojana",
+              "rewards": [
+                  
+              ]
+          },
+          {
+              "id":2,
+              "name":"Machinist App",
+              "subtext":"Lorem Ipsum",
+              "banner":"/work/banners/star-plus-ted.jpg",
+              "thum":"/work/banners/thum/star-plus-ted.jpg",
+              "video":"/work/banners/star-plus-ted.jpg",
+              "url":"work/kar-bachat-yojana",
+              "rewards": [
+                  
+              ]
+          } 
+        ]
+    },
+    {
+        "id": 9,
+        "brand": "Phillips",
+        "brandLogo": "/work/clients/mahindra.png",
+        "projects":[
+          {
+              "id":1,
+              "name":"Phillips Education",
+              "subtext":"Lorem Ipsum",
+              "banner":"/work/banners/star-plus-ted.jpg",
+              "thum":"/work/banners/thum/star-plus-ted.jpg",
+              "video":"/work/banners/star-plus-ted.jpg",
+              "url":"work/kar-bachat-yojana",
+              "rewards": [
+                  
+              ]
+          },
+          {
+              "id":2,
+              "name":"Machinist App",
+              "subtext":"Lorem Ipsum",
+              "banner":"/work/banners/star-plus-ted.jpg",
+              "thum":"/work/banners/thum/star-plus-ted.jpg",
+              "video":"/work/banners/star-plus-ted.jpg",
+              "url":"work/kar-bachat-yojana",
+              "rewards": [
+                  
+              ]
+          } 
+        ]
+    },
+    {
+        "id": 10,
+        "brand": "Phillips",
+        "brandLogo": "/work/clients/mahindra.png",
+        "projects":[
+          {
+              "id":1,
+              "name":"Phillips Education",
+              "subtext":"Lorem Ipsum",
+              "banner":"/work/banners/star-plus-ted.jpg",
+              "thum":"/work/banners/thum/star-plus-ted.jpg",
+              "video":"/work/banners/star-plus-ted.jpg",
+              "url":"work/kar-bachat-yojana",
+              "rewards": [
+                  
+              ]
+          },
+          {
+              "id":2,
+              "name":"Machinist App",
+              "subtext":"Lorem Ipsum",
+              "banner":"/work/banners/star-plus-ted.jpg",
+              "thum":"/work/banners/thum/star-plus-ted.jpg",
+              "video":"/work/banners/star-plus-ted.jpg",
+              "url":"work/kar-bachat-yojana",
+              "rewards": [
+                  
+              ]
+          } 
+        ]
+    }
+  ]
+  
