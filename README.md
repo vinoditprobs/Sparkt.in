@@ -23,7 +23,7 @@ The website is currently under development. The migration to React and Next.js i
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/vinoditprobs/Sparkt.in.git>
 
 First, run the development server:
 
