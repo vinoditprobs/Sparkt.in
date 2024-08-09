@@ -19,17 +19,13 @@ Sparkt.in is the official website for Sparkt. The website is undergoing a signif
 
 The website is currently under development. The migration to React and Next.js is in progress, and updates will be made available as the project evolves.
 
+## Live Demos
+
+- **Current Version:** [Sparkt.in (Older Version)](http://sparkt.in)
+- **Under Development:** [Sparkt.madebysparkt.com (Updated Version)](http://sparkt.madebysparkt.com)
+
 ## Setup and Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone <https://github.com/vinoditprobs/Sparkt.in.git>
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
+   git clone https://github.com/vinoditprobs/Sparkt.in.git
