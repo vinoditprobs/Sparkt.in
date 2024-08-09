@@ -14,6 +14,8 @@ Sparkt.in is the official website for Sparkt. The website is undergoing a signif
 - **Modern UI/UX:** The updated website will feature a modern, responsive design using React and Next.js.
 - **Improved Performance:** Enhanced performance and scalability with Next.js and React.
 - **SEO and Optimization:** Improved search engine optimization and loading times with Next.js.
+- **File-System Based Routing:** Next.js uses a file-system based router for dynamic page generation.
+- **Dynamic Meta Tags:** Added meta tags for each page dynamically using reusable code to improve SEO and user experience.
 
 ## Development Status
 
