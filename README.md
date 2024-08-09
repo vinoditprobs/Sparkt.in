@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Sparkt.in is the official website for Sparkt, an organization dedicated to [insert brief description of the organization or its mission]. The website is undergoing a significant update to transition from its previous HTML, CSS, and jQuery-based design to a modern technology stack using React and Next.js.
+Sparkt.in is the official website for Sparkt. The website is undergoing a significant update to transition from its previous HTML, CSS, and jQuery-based design to a modern technology stack using React and Next.js.
 
 ## Technologies Used
 
