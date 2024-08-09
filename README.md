@@ -1,6 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Sparkt.in
 
-## Getting Started
+## Project Overview
+
+Sparkt.in is the official website for Sparkt, an organization dedicated to [insert brief description of the organization or its mission]. The website is undergoing a significant update to transition from its previous HTML, CSS, and jQuery-based design to a modern technology stack using React and Next.js.
+
+## Technologies Used
+
+- **Current Stack:** HTML, CSS, jQuery (old version)
+- **New Stack:** React, Next.js
+
+## Features
+
+- **Modern UI/UX:** The updated website will feature a modern, responsive design using React and Next.js.
+- **Improved Performance:** Enhanced performance and scalability with Next.js and React.
+- **SEO and Optimization:** Improved search engine optimization and loading times with Next.js.
+
+## Development Status
+
+The website is currently under development. The migration to React and Next.js is in progress, and updates will be made available as the project evolves.
+
+## Setup and Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone <repository-url>
 
 First, run the development server:
 
@@ -14,23 +37,3 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
